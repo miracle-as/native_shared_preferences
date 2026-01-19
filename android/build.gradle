@@ -22,6 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
+    namespace 'yeniellandestoy.native_shared_preferences'
     compileSdkVersion 28
 
     defaultConfig {
