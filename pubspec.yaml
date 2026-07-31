@@ -23,7 +23,7 @@ dependencies:
   shared_preferences_foundation: ^2.1.0
   shared_preferences_web: ^2.0.3
   shared_preferences_windows: ^2.1.0
-  file: ^6.1.4
+  file: ^7.0.1
 
 dev_dependencies:
   flutter_test:
@@ -45,4 +45,3 @@ flutter:
         default_package: shared_preferences_web
       windows:
         default_package: shared_preferences_windows
-
